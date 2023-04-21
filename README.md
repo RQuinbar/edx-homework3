@@ -6,7 +6,7 @@ This website will enable the user to create a random password by selecting diffe
 
 ## Installation
 
-Please go to the website.
+Please go to the website.  https://rquinbar.github.io/edx-homework3/
 
 ## Usage
 
